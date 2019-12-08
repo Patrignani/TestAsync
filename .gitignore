@@ -1,0 +1,11 @@
+Console/obj/Debug/netcoreapp3.0/AttackAsync.pdb
+*.suo
+App/.vs/TestAsync/v16/
+App/bin/
+App/.vs/TestAsync/config/
+App/.vs/TestAsync/DesignTimeBuild/.dtbcache
+App/obj/
+Console/.vs/AttackAsync/v16/
+Console/.vs/
+Console/bin/
+Console/obj/
